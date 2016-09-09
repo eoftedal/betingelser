@@ -1,11 +1,10 @@
 language: go
 go: tip
-install:
-- wget https://github.com/spf13/hugo/releases/download/v0.16/hugo_0.16_linux-64bit.tgz
-- tar -zxvf hugo_0.16_linux-64bit.tgz && cd hugo_0.16_linux-64bit && mv hugo_0.16_linux-64bit
-  $HOME/gopath/src/github.com/blankoslo/betingelser && cd $HOME/gopath/src/github.com/blankoslo/betingelser
+before_install:
+  - wget https://github.com/spf13/hugo/releases/download/v0.16/hugo_0.16-1_i386.deb
+  - sudo dpkg -i hugo_0.16-1_i386.deb
 script:
-- ./hugo --theme=betingelser
+- hugo --theme=betingelser
 deploy:
   provider: s3
   access_key_id: YOUR AWS ACCESS KEY
