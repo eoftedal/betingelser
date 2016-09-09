@@ -1,0 +1,6 @@
+name = "Betingelser"
+description = "For betingelser."
+
+[params]
+  intro_title = "Title"
+  intro_text = "Text"

@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+{{ partial "intro.html" . }}
+
+	<div class="container">
+{{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
+	<div class="twothirds center mobilefull" itemscope itemtype="http://schema.org/Blog">
+		<h3 class="headingMedium mobiletextcenter" itemprop="headline">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</h2>
+		<div class="half line bg{{ .Param "color"}} mobilecenter"></div>
+		<p>{{ .Content }}  </p>
+	</div>
+{{ end }}
+	</container>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+<meta charset="utf-8">
+{{ .Hugo.Generator }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://use.typekit.net/dih0gem.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
+<title>{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
+</head>
+<body>
+
+	<div class="headercontainer">
+		<div id="header">
+			<a href="/" id="index" class="indexactive">
+				<img alt="Blank Logo" src="/images/blankutenstrek.svg">
+			</a>
+			<div id="menu">
+				<ul>
+					<li><a href="http://blankoslo.no/#jobb">Jobb</a></li>
+					<li><a href="http://blankoslo.no/#menneskene">Menneskene</a></li>
+					<li><a href="http://blankoslo.no/#kontakt">Kontakt</a></li>
+					<li><a href="http://blankoslo.no/omoss/">Om oss</a></li>
+					<li><a href="https://blogg.blankoslo.no" target="_blank">Blogg</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="mobileheader">
+			<a id="mobileindex" href="/">
+				<img alt="Blank Logo" src="/static/img/BlankLogo-02.svg">
+			</a>
+
+			<a href="javascript:void(0);" id="menumobile" class="menumobilebutton" onclick="openmenumobile()">
+				<img src="/static/img/navicon-02.svg" alt="Meny">
+			</a>
+
+			<div id="menumobileopen" style="display:none;" onclick="openmenumobile()">
+				<ul>
+					<li><a href="/#jobb">Jobb</a></li>
+					<li><a href="/#menneskene">Menneskene</a></li>
+					<li><a href="/#kontakt">Kontakt</a></li>
+					<li><a href="/omoss/">Om oss</a></li>
+					<li><a href="https://blogg.blankoslo.no" target="_blank">Blogg</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
