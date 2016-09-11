@@ -4,10 +4,17 @@
 
 	<div class="container">
 {{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
-	<div class="twothirds center mobilefull" itemscope itemtype="http://schema.org/Blog">
+	<div class="twothirds center mobilefull">
 		<h3 class="headingMedium mobiletextcenter" itemprop="headline">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</h2>
 		<div class="half line bg{{ .Param "color"}} mobilecenter"></div>
 		<p>{{ .Content }}  </p>
+		{{if .Param "illustration"}}
+	</div></div>
+		<div class="full bg{{ .Param "illustrationbg"}}">
+			<img src="{{.Param "illustration"}}" class="illustration"/>
+		</div>
+		<div class="container"><div class="twothirds center mobilefull">
+		{{ end }}
 	</div>
 {{ end }}
 	</container>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="820px" height="405px" viewBox="0 0 820 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="101" cy="287" r="8"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.249377264 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M98,266 C117.279297,245.076172 148,237.768555 148,206 C148,174.231445 125.614237,156 98,156 C70.3857625,156 48,176.102539 48,206 C48,235.897461 76.1748047,245.076172 98,266 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.249377264 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-399.000000, -1081.000000)">
+            <g id="Group-9" transform="translate(400.000000, 1070.000000)">
+                <g id="Group-3" transform="translate(0.000000, 13.000000)">
+                    <g id="Oval-2-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#F8485E" stroke-width="2" fill="#FEF3CF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Oval-2-Copy" opacity="0.67135028">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <circle id="Oval-2-Copy-2" stroke="#F8485E" fill="#FEF3CF" cx="201" cy="227" r="4"></circle>
+                    <circle id="Oval-2-Copy-3" stroke="#F8485E" fill="#FEF3CF" cx="4" cy="346" r="4"></circle>
+                    <circle id="Oval-2-Copy-4" stroke="#F8485E" fill="#FEF3CF" cx="37" cy="327" r="4"></circle>
+                    <circle id="Oval-2-Copy-5" stroke="#F8485E" fill="#FEF3CF" cx="70" cy="307" r="4"></circle>
+                    <circle id="Oval-2-Copy-6" stroke="#F8485E" fill="#FEF3CF" cx="135" cy="267" r="4"></circle>
+                    <circle id="Oval-2-Copy-7" stroke="#F8485E" fill="#FEF3CF" cx="168" cy="247" r="4"></circle>
+                    <circle id="Oval-2-Copy-8" stroke="#F8485E" fill="#FEF3CF" cx="234" cy="205" r="4"></circle>
+                    <circle id="Oval-2-Copy-9" stroke="#F8485E" fill="#FEF3CF" cx="266" cy="183" r="4"></circle>
+                    <circle id="Oval-2-Copy-10" stroke="#F8485E" fill="#FEF3CF" cx="299" cy="162" r="4"></circle>
+                    <circle id="Oval-2-Copy-11" stroke="#F8485E" fill="#FEF3CF" cx="332" cy="143" r="4"></circle>
+                    <circle id="Oval-2-Copy-12" stroke="#F8485E" fill="#FEF3CF" cx="364" cy="126" r="4"></circle>
+                    <g id="Group-2" transform="translate(393.000000, 106.000000)" stroke="#F8485E" fill="#FEF3CF">
+                        <circle id="Oval-2-Copy-13" cx="4" cy="4" r="4"></circle>
+                    </g>
+                    <circle id="Oval-2-Copy-14" stroke="#F8485E" fill="#FEF3CF" cx="430" cy="95" r="4"></circle>
+                    <circle id="Oval-2-Copy-15" stroke="#F8485E" fill="#FEF3CF" cx="462" cy="82" r="4"></circle>
+                    <circle id="Oval-2-Copy-16" stroke="#F8485E" fill="#FEF3CF" cx="495" cy="68" r="4"></circle>
+                    <circle id="Oval-2-Copy-17" stroke="#F8485E" fill="#FEF3CF" cx="528" cy="56" r="4"></circle>
+                    <circle id="Oval-2-Copy-18" stroke="#F8485E" fill="#FEF3CF" cx="561" cy="44" r="4"></circle>
+                    <circle id="Oval-2-Copy-19" stroke="#F8485E" fill="#FEF3CF" cx="593" cy="34" r="4"></circle>
+                    <circle id="Oval-2-Copy-20" stroke="#F8485E" fill="#FEF3CF" cx="626" cy="25" r="4"></circle>
+                    <text id="2012" font-family="MuseoSans-300, Museo Sans" font-size="14" font-weight="300" letter-spacing="0.5" fill="#000000">
+                        <tspan x="83" y="193">2012</tspan>
+                    </text>
+                    <text id="630-000,-" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#000000">
+                        <tspan x="66" y="218">630 000,-</tspan>
+                    </text>
+                    <text id="1995-copy" font-family="MuseoSans-300, Museo Sans" font-size="14" font-weight="300" letter-spacing="0.5" fill="#000000">
+                        <tspan x="607" y="13">1995</tspan>
+                    </text>
+                </g>
+                <text id="1-050-000-1-000-000" font-family="MuseoSans-300, Museo Sans" font-size="12" font-weight="300" line-spacing="31" letter-spacing="0.428571492" fill="#214A55">
+                    <tspan x="759.898857" y="11">1 050 000</tspan>
+                    <tspan x="759.094857" y="42">1 000 000</tspan>
+                    <tspan x="769.948" y="73">950 000</tspan>
+                    <tspan x="769.144" y="104">900 000</tspan>
+                    <tspan x="769.852" y="135">850 000</tspan>
+                    <tspan x="769.048" y="166">800 000</tspan>
+                    <tspan x="770.836" y="197">750 000</tspan>
+                    <tspan x="770.032" y="228">700 000</tspan>
+                    <tspan x="769.936" y="259">650 000</tspan>
+                    <tspan x="769.132" y="290">600 000</tspan>
+                    <tspan x="770.38" y="321">550 000</tspan>
+                    <tspan x="769.576" y="352">500 000</tspan>
+                </text>
+                <g id="Group-5" transform="translate(152.000000, 67.000000)" fill="#000000" opacity="0.113456157">
+                    <ellipse id="Oval-3" cx="304" cy="24" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="266" cy="41" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="296" cy="28" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="321" cy="16" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="246" cy="51" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="193" cy="77" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="236" cy="56" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="236" cy="36" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="236" cy="46" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="16" cy="193" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="16" cy="333" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="81" cy="151" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="115" cy="126" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="145" cy="100" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="145" cy="70" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="145" cy="90" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="145" cy="80" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="49" cy="173" rx="16" ry="16"></ellipse>
+                    <ellipse id="Oval-3" cx="49" cy="163" rx="16" ry="16"></ellipse>
+                </g>
+                <polyline id="Path-5" stroke="#F5F6F5" opacity="0.610657649" points="4 359.446315 87.5083703 320.167318 172.664029 263.696179 195.049865 253.101072 231.264789 224.17028 258.875378 206.3125 288.748701 198.325195 320.008975 165.288086 354.246035 151.635742 414.483272 110.212891 445.984256 121.009766 478.63492 103.796875 509.756498 75.4492188 541.754951 67.4511719 571.893055 50.0107422 608.587656 50.2363281 636 47"></polyline>
+                <text id="Lønn-etter-eksamenså" font-family="MuseoSans-300, Museo Sans" font-size="16" font-weight="300" letter-spacing="0.571428597" fill="#214A55">
+                    <tspan x="192" y="378">Lønn etter eksamensår, mastergrad</tspan>
+                </text>
+                <text id="Tekna-øvre-kvartil-e" font-family="MuseoSans-300, Museo Sans" font-size="16" font-weight="300" letter-spacing="0.571428597" fill="#214A55">
+                    <tspan x="192" y="348">Tekna øvre kvartil etter eksamensår</tspan>
+                </text>
+                <text id="Hvor-ansatt-ligger-i" font-family="MuseoSans-300, Museo Sans" font-size="16" font-weight="300" letter-spacing="0.571428597" fill="#214A55">
+                    <tspan x="192" y="405">Hvor ansatt ligger i lønn i dag</tspan>
+                </text>
+                <circle id="Oval-2-Copy-4" stroke="#F8485E" fill="#FEF3CF" cx="168" cy="374" r="4"></circle>
+                <path d="M164.5,350.5 L185.5,343.5" id="Line" stroke="#F5F6F5" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
