@@ -10,7 +10,7 @@ deploy:
   secret_access_key:
     secure: w2dTWNvrqw5z3lALOje1Op+tgIpMDtSK4JlxLa21OFp6vwPDt358+6C1to2HVGpQVeS9q32Ah6K5H8XQ9NFbfuyqyWJ7BXWXro/9Os5qN9FJxoIkgzY9BuhTNdstRh/YcSSPh4c3ykuaSvtA8VKBOOHmZhWd00OU4mN1jxniFUUNQv5dJYa5rdHp6RbxG6fK+EkQGRbBzPF2tlTX80IoYDlFOvtY/dUolr/0Z7Egmc6k9/3YOy430wCvY0dgSAMtw57wlgObvk2NnDvQ8TXWFKCwhf5frLZ2J68Fptf9MCA2RLXcNadaIdlOLYynetd0YsnL737uTxFFgsr1/Np+p0u1lwQSPL8r5WPuZ9s/3M5dIkhQi+F0qtV+IrZIj4EN3PNweub0CQfhUUdy7d2+zyHicMdCvvMKudNwEDMkEyNV+HzhZ0A/kfDudZSd/oZZM/joseIcSa0CdxkOyVIlzeKHRN1zwKVQlLspBkDmH/Suw2QBuuovtzVJ03lWdatZNJN9GReAosn6oNBC/FSmMRldPyDDr3cU17vQ5kqPyhJR6S56YnMCd/oAO7klglA5Tuu+avW+Pa9xvNYDhgGoNBfMUYsz5Izj3t/rnnxOLYuL5uU3MU6lFF/aNYv3dGaqT5efW8nhVydR3H6SAEnBFhj6XIMgpzF081OKc1UEn8E=
   bucket: betingelser.blankoslo.no
-  local_dir: $HOME/gopath/src/github.com/dtomcej/static-site/public
+  local_dir: $HOME/gopath/src/github.com/blankoslo/betingelser/public
   skip_cleanup: true
   on:
     branch: master
