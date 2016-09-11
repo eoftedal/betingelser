@@ -12,6 +12,8 @@ deploy:
   bucket: betingelser.blankoslo.no
   local_dir: public
   skip_cleanup: true
+  acl: public_read
+  region: eu-central-1
   on:
     branch: master
     repo: blankoslo/betingelser
