@@ -15,8 +15,10 @@
 		</div>
 	</div>
 	{{if .Param "illustration"}}
-	<div class="full bg{{ .Param "illustrationbg"}}">
-		<img src="{{.Param "illustration"}}" class="illustration"/>
+	<div class="full tapp bg{{ .Param "illustrationbg"}}">
+		<div class="twothirds center">
+			<img src="{{.Param "illustration"}}" class="illustration"/>
+		</div>
 	</div>
 	{{ end }}
 	{{if .Param "bgcolor"}}
