@@ -1,14 +1,22 @@
 +++
-color = "blue"
+color = "yellow"
 title = "Forsikringer"
-weight = 4
+weight = 11
 
 +++
-I Blank har vi en felles bonusmodell hvor vi hvert kvartal deler ut 30 prosent av overskuddet til de ansatte, fratrukket kostnader for arbeidsgiveravgift. Dette fordeles flatt uavhengig av stilling, senioritet og faktureringsgrad.
+Vi dekker i dag mange forsikringer for våre arbeidstakere. Nøyaktige vilkår og oversikt ligger i forsikringspapirene alle får tilsendt, men er pt.:
 
-Dersom du har fravær som ikke skyldes ferie eller avspasering på mer enn fire uker i et kvartal, reduseres din andel tilsvarende fraværet.
-For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd på 950 000,- og har 25 ansatte:
+### Reiseforsikring
+Blank dekker reiseforsikring hos Europeiske for deg, samboer og barn. Forsikringen gjelder reiser i hele verden inntil 45 dager, også fritidsreiser.
 
-_(950 000,- * 30% / 1,14 (arbeidsgiveravgift)) / 25 ansatte = 10 000,- pr ansatt_
+### Behandling/helseforsikring
+Alle ansatte har tilgang til ubegrenset medisinsk rådgivning over telefon. I tillegg dekkes, for tilfeller som det offentlige helsevesen ikke dekker eller har lang ventetid, konsultasjon, operasjon, fysioterapi, rehabilitering, reise og opphold, psykologisk førstehjelp og psykolog.
 
-Bonusen varierer med hvor bra Blank gjør det, og i et normalår er bonus pr. ansatt estimert å ligge rundt 70-80 000,-. Ved gode tider som tilsier høy faktureringsgrad og timepris, kan bonusen passere 100 000,- med god margin.
+### Uførepensjon
+Denne forsikringen sikrer deg en månedlig utbetaling frem til du blir pensjonist og gir deg 69 % av fastlønn opp til 12 G minus uførepensjon fra folketrygden. I tillegg kommer 10% av 1 G som en ekstra utbetaling på toppen - uavhengig av lønnsnivå.
+
+### Yrkesskade / yrkessykdom
+Gir en engangsutbetaling i de tilfeller man pådrar seg en skade eller sykdom gjennom jobb eller reise til og fra arbeid som gjør at man ikke kan jobbe fullt eller noe i det hele tatt.
+
+### Innskuddsfritak
+Dersom du blir minst 20 prosent ufør, dekker denne forsikringen innbetalinger til din pensjonskonto frem til du blir 67 år, utfra din lønn på det tidspunktet du ble ufør.

@@ -6,11 +6,12 @@ illustration = "bonus.svg"
 illustrationbg = "yellow"
 
 +++
-I Blank har vi en felles bonusmodell hvor vi hvert kvartal deler ut 30 prosent av overskuddet til de ansatte, fratrukket kostnader for arbeidsgiveravgift. Dette fordeles flatt uavhengig av stilling, senioritet og faktureringsgrad.
+I Blank tror vi på at alle bør ha de samme insentivene, og vi har derfor utarbeidet en enkel felles bonusmodell for alle ansatte. Hvert kvartal deles 30 prosent av overskuddet ut til de ansatte, fratrukket kostnader til arbeidsgiveravgift. Denne bonusen fordeles helt flatt uavhengig av stilling, senioritet og faktureringsgrad.
 
-Dersom du har fravær som ikke skyldes ferie eller avspasering på mer enn fire uker i et kvartal, reduseres din andel tilsvarende fraværet.
+Dersom du har fravær utover fire uker som ikke skyldes ferie eller avspasering, reduseres din andel.
+
 For å illustrere med et eksempel: i 4. kvartal 2016 går Blank med et overskudd på 950 000,- og har 25 ansatte:
 
-_(950 000,- * 30% / 1,14 (arbeidsgiveravgift)) / 25 ansatte = 10 000,- pr ansatt_
+>(950 000,- * 30% / 1,14 (arbeidsgiveravgift)) / 25 ansatte = 10 000,- pr ansatt
 
-Bonusen varierer med hvor bra Blank gjør det, og i et normalår er bonus pr. ansatt estimert å ligge rundt 70-80 000,-. Ved gode tider som tilsier høy faktureringsgrad og timepris, kan bonusen passere 100 000,- med god margin.
+Bonusen vil dermed variere med hvor bra Blank gjør det. I et normalår ser vi for oss at denne vil ligge 70 - 80 000,-. Når det er gode tider, som tilsier høy faktureringsgrad og høy timepris, vil bonusen trolig passere 100 000,- med god margin.
