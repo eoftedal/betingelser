@@ -29,7 +29,7 @@ blockquote {
 .twothirds	{width: 64.5%;display: block;overflow: hidden;}
 .fullheight	{height: 100%;}
 
-.tapp {background: url('../tapp.svg') no-repeat top center;}
+.tapp {background: url('../images/tapp.svg') no-repeat top center; fill: red; }
 
 /* FLOAT */
 
