@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="709px" height="273px" viewBox="0 0 709 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>salary_labels</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="salary_labels" transform="translate(-24.000000, -24.000000)">
+            <g id="bg">
+                <rect id="Rectangle-Copy-122" x="0" y="0" width="704" height="288"></rect>
+            </g>
+            <polyline id="graph_line_average" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.4" points="31.9999988 252 63.9999988 244 95.9999988 235 127.999999 223 159.999999 211 191.999999 196 223.999999 182 255.999999 168 287.999999 156 319.999999 144 351.999999 132 383.999999 122 415.999999 112 447.999999 103 479.999999 91 511.999999 84 543.999999 76 575.999999 67 608 60 639.999999 55 672 50"></polyline>
+            <g id="graph_points_employees" transform="translate(24.000000, 76.000000)" fill="#000000" opacity="0.2">
+                <circle id="Oval-Copy-21" cx="8" cy="171" r="8"></circle>
+                <circle id="Oval-Copy-23" cx="8" cy="171" r="8"></circle>
+                <circle id="Oval-Copy-24" cx="72" cy="169" r="8"></circle>
+                <circle id="Oval-Copy-25" cx="104" cy="147" r="8"></circle>
+                <circle id="Oval-Copy-27" cx="136" cy="135" r="16"></circle>
+                <circle id="Oval-Copy-28" cx="136" cy="135" r="12"></circle>
+                <circle id="Oval-Copy-26" cx="136" cy="135" r="8"></circle>
+                <circle id="Oval-Copy-29" cx="168" cy="154" r="8"></circle>
+                <circle id="Oval-Copy-32" cx="200" cy="87" r="8"></circle>
+                <circle id="Oval-Copy-33" cx="232" cy="92" r="16"></circle>
+                <circle id="Oval-Copy-33" cx="232" cy="92" r="12"></circle>
+                <circle id="Oval-Copy-33" cx="264" cy="68" r="8"></circle>
+                <circle id="Oval-Copy-34" cx="264" cy="80" r="8"></circle>
+                <circle id="Oval-Copy-35" cx="296" cy="13" r="8"></circle>
+                <circle id="Oval-Copy-36" cx="296" cy="20" r="8"></circle>
+                <circle id="Oval-Copy-37" cx="328" cy="27" r="8"></circle>
+                <circle id="Oval-Copy-38" cx="360" cy="27" r="8"></circle>
+                <circle id="Oval-Copy-39" cx="648" cy="8" r="8"></circle>
+                <circle id="Oval-Copy-30" cx="168" cy="135" r="8"></circle>
+                <circle id="Oval-Copy-31" cx="168" cy="120.800003" r="8"></circle>
+                <circle id="Oval-Copy-22" cx="8" cy="180.800003" r="8"></circle>
+            </g>
+            <g id="graph_points_tekna" transform="translate(28.000000, 51.000000)" fill="#FFFFFF">
+                <circle id="Oval" cx="4" cy="201" r="4"></circle>
+                <circle id="Oval-Copy" cx="36" cy="193.800003" r="4"></circle>
+                <circle id="Oval-Copy-6" cx="196" cy="133.800003" r="4"></circle>
+                <circle id="Oval-Copy-11" cx="356" cy="71.4000015" r="4"></circle>
+                <circle id="Oval-Copy-16" cx="516" cy="21" r="4"></circle>
+                <circle id="Oval-Copy-3" cx="100" cy="172.199997" r="4"></circle>
+                <circle id="Oval-Copy-7" cx="260" cy="105" r="4"></circle>
+                <circle id="Oval-Copy-12" cx="420" cy="42.5999985" r="4"></circle>
+                <circle id="Oval-Copy-17" cx="580" cy="4.20000076" r="4"></circle>
+                <circle id="Oval-Copy-2" cx="68" cy="184.199997" r="4"></circle>
+                <circle id="Oval-Copy-8" cx="228" cy="117" r="4"></circle>
+                <circle id="Oval-Copy-13" cx="388" cy="57" r="4"></circle>
+                <circle id="Oval-Copy-18" cx="548" cy="16.2000008" r="4"></circle>
+                <circle id="Oval-Copy-4" cx="132" cy="157.800003" r="4"></circle>
+                <circle id="Oval-Copy-9" cx="292" cy="100.199997" r="4"></circle>
+                <circle id="Oval-Copy-14" cx="452" cy="49.8000031" r="4"></circle>
+                <circle id="Oval-Copy-19" cx="612" cy="4" r="4"></circle>
+                <circle id="Oval-Copy-5" cx="164" cy="145.800003" r="4"></circle>
+                <circle id="Oval-Copy-10" cx="324" cy="78.5999985" r="4"></circle>
+                <circle id="Oval-Copy-15" cx="484" cy="37.8000031" r="4"></circle>
+                <circle id="Oval-Copy-20" cx="644" cy="4.20000076" r="4"></circle>
+            </g>
+            <g id="label_y" transform="translate(31.000000, 0.000000)">
+                <rect id="Rectangle-Copy-332" x="673" y="0" width="64" height="288"></rect>
+                <rect id="Rectangle-Copy-5" fill="#FFFFFF" opacity="0.2" x="0" y="263" width="665" height="2"></rect>
+                <rect id="Rectangle-Copy-5" fill="#FFFFFF" opacity="0.2" x="0" y="163" width="665" height="2"></rect>
+                <rect id="Rectangle-Copy-5" fill="#FFFFFF" opacity="0.2" x="0" y="63" width="665" height="2"></rect>
+                <g id="Group-5" transform="translate(673.000000, 48.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" x="0" y="15" width="8" height="2"></rect>
+                    <text id="1-000-000" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="16">
+                        <tspan x="0" y="6">1 000 000</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(673.000000, 148.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-3" x="0" y="15" width="8" height="2"></rect>
+                    <text id="750-000" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="16">
+                        <tspan x="0" y="6">750 000</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(673.000000, 248.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-5" x="0" y="15" width="8" height="2"></rect>
+                    <text id="500-000" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="16">
+                        <tspan x="0" y="6">500 000</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="label_x" transform="translate(0.000000, 24.000000)">
+                <rect id="Rectangle-Copy-122" x="0" y="264" width="768" height="32"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" opacity="0.2" x="671" y="0" width="2" height="256"></rect>
+                <rect id="Rectangle-Copy-7" fill="#FFFFFF" opacity="0.2" x="31" y="0" width="2" height="256"></rect>
+                <rect id="Rectangle-Copy-8" fill="#FFFFFF" opacity="0.2" x="191" y="0" width="2" height="256"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" opacity="0.2" x="511" y="0" width="2" height="256"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" opacity="0.2" x="351" y="0" width="2" height="256"></rect>
+                <g id="Group-2" transform="translate(31.000000, 264.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="2" height="8"></rect>
+                    <text id="2015" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="8">
+                        <tspan x="6" y="8">2015</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy" transform="translate(191.000000, 264.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="2" height="8"></rect>
+                    <text id="2010" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="8">
+                        <tspan x="6" y="8">2010</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(351.000000, 264.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="2" height="8"></rect>
+                    <text id="2005" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="8">
+                        <tspan x="6" y="8">2005</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-3" transform="translate(512.000000, 264.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="2" height="8"></rect>
+                    <text id="2000" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="8">
+                        <tspan x="6" y="8">2000</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-4" transform="translate(671.000000, 264.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="2" height="8"></rect>
+                    <text id="1995" font-family="MuseoSans-700, Museo Sans" font-size="6" font-weight="500" line-spacing="8">
+                        <tspan x="6" y="8">1995</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="graph_legend" transform="translate(40.000000, 24.000000)">
+                <circle id="Oval-Copy-40" fill="#FFFFFF" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-Copy-41" fill="#000000" opacity="0.2" cx="4" cy="16" r="4"></circle>
+                <rect id="Rectangle-2" fill="#000000" opacity="0.4" x="0" y="24" width="8" height="8"></rect>
+                <text id="Teknas-lønnsstatisti" font-family="MuseoSans-300, Museo Sans" font-size="6" font-weight="300" line-spacing="8" fill="#262626">
+                    <tspan x="16" y="7">Teknas lønnsstatistikk</tspan>
+                </text>
+                <text id="Lønnskurve" font-family="MuseoSans-300, Museo Sans" font-size="6" font-weight="300" line-spacing="8" fill="#262626">
+                    <tspan x="16" y="19">Lønnskurve</tspan>
+                </text>
+                <text id="Ansattes-lønn" font-family="MuseoSans-300, Museo Sans" font-size="6" font-weight="300" line-spacing="8" fill="#262626">
+                    <tspan x="16" y="31">Ansattes lønn</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
