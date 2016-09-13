@@ -29,6 +29,10 @@ blockquote > p {
 	position: relative;
 }
 
+.intro {
+	padding: 8em 0 2em 0;
+}
+
 .full		{width: 100%;display: block;overflow: hidden;}
 .half		{width: 47.5%;display: block;overflow: hidden;}
 .third		{width: 31.3%;display: block;overflow: hidden;}
