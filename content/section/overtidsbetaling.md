@@ -4,7 +4,7 @@ title = "Overtidsbetaling"
 weight = 6
 
 +++
-Alle konsulentene i Blank har rett til overtidsbetaling. Overtidsbetalingen finner du ved å dele årslønn på 195o timer og legge på 40 %.
+Alle konsulentene i Blank har rett til overtidsbetaling. Overtidsbetalingen finner du ved å dele årslønn på 1950 timer og legge på 40 %.
 
 Eksempelvis:
 
