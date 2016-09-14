@@ -20,10 +20,15 @@ blockquote > p {
 	padding: 0;
 }
 
+ul {
+	margin-top: 0em;
+	line-height: 2em;
+}
+
 .container{
 	max-width: 73em;
 	width: 90%;
-	padding: 3em 0;
+	padding: 2.5em 0;
 	margin: 0 auto;
 	overflow: hidden;
 	position: relative;
