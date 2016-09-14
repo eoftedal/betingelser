@@ -5,7 +5,9 @@ weight = 4
 
 +++
 Den første fredagen i hver måned samler vi hele Blank til «Innedag». Dette er en dag hvor hele selskapet tar fri fra prosjekt og kundeengasjementer for å drive fagutvikling.
+
 I dag har vi i hovedsak to typer Innedager:
+
 - Fasiliterte dager med workshoper og foredrag
 - Åpen dag hvor hver enkelt selv bestemmer
 
