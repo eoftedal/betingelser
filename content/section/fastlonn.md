@@ -2,7 +2,7 @@
 color = "red"
 title = "Fastlønn"
 weight = 1
-illustration = "salary_labels.svg"
+illustration = "graph_salary_large.svg"
 illustrationbg = "blue"
 
 +++
