@@ -2,7 +2,7 @@
 color = "blue"
 title = "Bonus"
 weight = 2
-illustration = "bonus.svg"
+illustration = "bonus_ikoner.svg"
 illustrationbg = "yellow"
 
 +++
