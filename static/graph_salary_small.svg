@@ -9,7 +9,7 @@
             <g id="salary_labels-copy">
                 <polyline id="graph_path_tekna" stroke-opacity="0.5" stroke="#262626" stroke-width="2" points="16 252 32 244.800003 48 235.199997 64 223.199997 80 208.800003 96 196.800003 112 184.800003 128 168 144 156 160 151.199997 176 129.599998 192 122.400002 208 108 224 93.5999985 240 100.800003 256 88.8000031 272 72 288 67.2000008 304 55.2000008 320 55 336 55.2000008"></polyline>
                 <polyline id="graph_line_average" stroke="#F5F5F5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.75" points="15.9999994 252 31.9999994 244 47.9999994 235 63.9999994 223 79.9999994 211 95.9999994 196 111.999999 182 127.999999 168 143.999999 156 159.999999 144 175.999999 132 191.999999 122 207.999999 112 223.999999 103 239.999999 91 255.999999 84 271.999999 76 287.999999 67 304 60 319.999999 55 336 50"></polyline>
-                <g id="graph_points_employees" transform="translate(8.000000, 76.000000)" fill="#F5F5F5" opacity="0.25">
+                <g id="graph_points_employees" transform="translate(8.000000, 76.000000)" fill-opacity="0.25" fill="#F5F5F5">
                     <circle id="Oval-Copy-21" cx="8" cy="171" r="8"></circle>
                     <circle id="Oval-Copy-23" cx="8" cy="171" r="8"></circle>
                     <circle id="Oval-Copy-24" cx="40" cy="169" r="8"></circle>
