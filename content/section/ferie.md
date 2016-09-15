@@ -1,6 +1,5 @@
 +++
-color = "yellow"
-bgcolor = "blue"
+color = "blue"
 title = "Ferie"
 weight = 5
 

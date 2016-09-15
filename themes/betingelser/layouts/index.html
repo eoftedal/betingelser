@@ -11,7 +11,7 @@
 		<div class="twothirds center mobilefull">
 			<h3 class="headingMedium mobiletextcenter" itemprop="headline">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</h2>
 			<div class="half line bg{{ .Param "color"}} mobilecenter"></div>
-			<p>{{ .Content }}  </p>
+			{{ .Content }}  
 		</div>
 	</div>
 	{{if .Param "illustration"}}

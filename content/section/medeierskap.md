@@ -2,6 +2,8 @@
 color = "red"
 title = "Medeierskap"
 weight = 3
+illustration = "folk.jpg"
+illustrationbg = "gray-light"
 
 +++
 Alle som får tilbud om ansettelse i Blank får tilbud om å kjøpe aksjer i selskapet og dermed bli medeiere. Medeierskap er en del av grunnfilosofien i Blank og vil fortsette i overskuelig framtid. Det er viktig for oss at tilbudet om å kjøpe aksjer kommer fra Blank og ikke fra en av de eksisterende aksjeeierne. Dette da vi ønsker at ditt innskudd skal gå til å gjøre Blank sterkere.

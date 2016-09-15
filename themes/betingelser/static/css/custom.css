@@ -28,14 +28,14 @@ ul {
 .container{
 	max-width: 73em;
 	width: 90%;
-	padding: 2.5em 0;
+	padding: 5em 0 0 0;
 	margin: 0 auto;
 	overflow: hidden;
 	position: relative;
 }
 
 .intro {
-	padding: 8em 0 2em 0;
+	padding: 12em 0 4em 0;
 }
 
 .full		{width: 100%;display: block;overflow: hidden;}
@@ -44,7 +44,7 @@ ul {
 .twothirds	{width: 64.5%;display: block;overflow: hidden;}
 .fullheight	{height: 100%;}
 
-.tapp {background: url('../images/tapp.svg') no-repeat top center; fill: red; }
+.tapp {background: url('../images/tapp.svg') no-repeat top center; fill: red; margin-top: 5em;}
 
 /* FLOAT */
 
@@ -210,7 +210,7 @@ a.menuactive:after {
 .boxbig		{padding: 4em;overflow: hidden;}
 
 .bigline	{width: 100%;padding-top: 25%;margin: 0.5em 0;}
-.line		{height: 0.5em;margin: 0 0 1em 0;}
+.line		{height: 0.5em;margin: 0 0 2em 0;}
 
 .bigicon	{width: 4em;height: 4em;margin: 0 0 2em 0;}
 .icontop	{margin: 0;}
