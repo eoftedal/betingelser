@@ -3,7 +3,6 @@ color = "blue"
 title = "Bonus"
 weight = 2
 illustration = "graph_bonus_large.svg"
-illustration_small = "graph_bonus_small.svg"
 illustrationbg = "yellow"
 caption = "Her ser du et eksempel på hvordan et år med lønnsutbetaling kan se ut"
 

@@ -14,13 +14,22 @@
 			{{ .Content }}
 		</div>
 	</div>
+
 	{{if .Param "illustration"}}
 	<div class="full tapp bg{{ .Param "illustrationbg"}}">
 		<div class="twothirds mobilefull center">
 			<img src="{{.Param "illustration"}}" class="illustration"/>
-			{{if .Param "illustration_small"}}
+			<p class="textcenter caption">{{ .Param "caption"}}</p>
+		</div>
+
+	</div>
+	{{ end }}
+
+	{{if .Param "illustration_large"}}
+	<div class="full tapp bg{{ .Param "illustrationbg"}}">
+		<div class="twothirds mobilefull center">
+			<img src="{{.Param "illustration_large"}}" class="illustration_large"/>
 			<img src="{{.Param "illustration_small"}}" class="illustration_small"/>
-			{{ end }}
 			<p class="textcenter caption">{{ .Param "caption"}}</p>
 		</div>
 
