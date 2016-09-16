@@ -15,6 +15,13 @@
 		</div>
 	</div>
 
+
+	{{if .Param "wideimg"}}
+	<div class="full">
+		<img class="wideimg" src="{{ .Param "wideimg"}}">
+	</div>
+	{{ end }}
+
 	{{if .Param "illustration"}}
 	<div class="full tapp bg{{ .Param "illustrationbg"}}">
 		<div class="twothirds mobilefull center">
@@ -36,6 +43,9 @@
 	</div>
 	{{ end }}
 	{{if .Param "bgcolor"}}
+	</div>
+	{{ end }}
+	{{if .Param "bgwide"}}
 	</div>
 	{{ end }}
 {{ end }}
