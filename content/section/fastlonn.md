@@ -3,6 +3,7 @@ color = "red"
 title = "Fastlønn"
 weight = 1
 illustration = "graph_salary_large.svg"
+illustration_small = "graph_salary_small.svg"
 illustrationbg = "blue"
 caption = "Grafen viser Teknas øvre kvartil, vår utjevnede lønnsstige og våre faktiske lønninger etter uteksamineringsår"
 

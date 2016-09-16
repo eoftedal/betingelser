@@ -18,6 +18,9 @@
 	<div class="full tapp bg{{ .Param "illustrationbg"}}">
 		<div class="twothirds mobilefull center">
 			<img src="{{.Param "illustration"}}" class="illustration"/>
+			{{if .Param "illustration_small"}}
+			<img src="{{.Param "illustration_small"}}" class="illustration_small"/>
+			{{ end }}
 			<p class="textcenter caption">{{ .Param "caption"}}</p>
 		</div>
 
