@@ -4,6 +4,7 @@ title = "Bonus"
 weight = 2
 illustration = "graph_bonus_large.svg"
 illustrationbg = "yellow"
+caption = "Her ser du et eksempel på hvordan et år med lønnsutbetaling kan se ut"
 
 +++
 I Blank tror vi på at alle bør ha de samme insentivene, og vi har derfor utarbeidet en enkel felles bonusmodell for alle ansatte. Hvert kvartal deles 30 prosent av overskuddet ut til de ansatte, fratrukket kostnader til arbeidsgiveravgift. Denne bonusen fordeles helt flatt uavhengig av stilling, senioritet og faktureringsgrad.

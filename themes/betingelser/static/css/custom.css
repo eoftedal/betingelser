@@ -206,6 +206,8 @@ a.menuactive:after {
 	display: block;
 }
 
+.caption {font-style: italic; padding-bottom: 5em;}
+
 .box		{padding: 2em;overflow: hidden;position: relative;}
 .boxbig		{padding: 4em;overflow: hidden;}
 

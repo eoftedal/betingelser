@@ -11,14 +11,16 @@
 		<div class="twothirds center mobilefull">
 			<h3 class="headingMedium mobiletextcenter" itemprop="headline">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</h2>
 			<div class="half line bg{{ .Param "color"}} mobilecenter"></div>
-			{{ .Content }}  
+			{{ .Content }}
 		</div>
 	</div>
 	{{if .Param "illustration"}}
 	<div class="full tapp bg{{ .Param "illustrationbg"}}">
 		<div class="twothirds mobilefull center">
 			<img src="{{.Param "illustration"}}" class="illustration"/>
+			<p class="textcenter caption">{{ .Param "caption"}}</p>
 		</div>
+
 	</div>
 	{{ end }}
 	{{if .Param "bgcolor"}}
