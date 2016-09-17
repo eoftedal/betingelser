@@ -2,7 +2,8 @@
 color = "red"
 title = "Medeierskap"
 weight = 3
-illustration = "folk.jpg"
+illustration = ""
+wideimg = "folk.jpg"
 illustrationbg = "gray-light"
 caption = "I Blank får alle ansatte tilbud om medeierskap"
 
