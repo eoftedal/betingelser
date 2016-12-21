@@ -1,4 +1,4 @@
-baseurl = "http://betingelser.blankoslo.no"
+baseurl = "http://betingelser.blank.no"
 languageCode = "no-nb"
 title = "Betingelser i Blank"
 GoogleAnalytics = "UA-66155927-6"
